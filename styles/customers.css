@@ -1,0 +1,18 @@
+.func-btn{
+    margin: 0 10px;
+    transition: .3s;
+}
+
+.edit-btn:hover{
+    color: darkblue;
+    background: lightblue;
+    font-size: 20px;
+    transition: .3s;
+}
+
+.delete-btn:hover{
+    color: darkred;
+    background: lightcoral;
+    font-size: 20px;
+    transition: .3s;
+}
